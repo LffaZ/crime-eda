@@ -1,0 +1,190 @@
+SDATE,AREA,count
+2022-01-25,77th Street,350
+2022-01-25,Central,376
+2022-01-25,Devonshire,232
+2022-01-25,Foothill,228
+2022-01-25,Harbor,269
+2022-01-25,Hollenbeck,250
+2022-01-25,Hollywood,317
+2022-01-25,Mission,258
+2022-01-25,Newton,301
+2022-01-25,N Hollywood,247
+2022-01-25,Northeast,263
+2022-01-25,Olympic,252
+2022-01-25,Pacific,282
+2022-01-25,Rampart,270
+2022-01-25,Southeast,311
+2022-01-25,Southwest,328
+2022-01-25,Topanga,237
+2022-01-25,Van Nuys,231
+2022-01-25,West LA,219
+2022-01-25,West Valley,247
+2022-01-25,Wilshire,249
+2022-04-06,77th Street,311
+2022-04-06,Central,336
+2022-04-06,Devonshire,210
+2022-04-06,Foothill,208
+2022-04-06,Harbor,240
+2022-04-06,Hollenbeck,228
+2022-04-06,Hollywood,289
+2022-04-06,Mission,236
+2022-04-06,Newton,277
+2022-04-06,N Hollywood,226
+2022-04-06,Northeast,248
+2022-04-06,Olympic,236
+2022-04-06,Pacific,253
+2022-04-06,Rampart,252
+2022-04-06,Southeast,271
+2022-04-06,Southwest,300
+2022-04-06,Topanga,214
+2022-04-06,Van Nuys,212
+2022-04-06,West LA,199
+2022-04-06,West Valley,216
+2022-04-06,Wilshire,223
+2022-04-25,77th Street,340
+2022-04-25,Central,372
+2022-04-25,Devonshire,241
+2022-04-25,Foothill,232
+2022-04-25,Harbor,256
+2022-04-25,Hollenbeck,246
+2022-04-25,Hollywood,314
+2022-04-25,Mission,261
+2022-04-25,Newton,303
+2022-04-25,N Hollywood,238
+2022-04-25,Northeast,272
+2022-04-25,Olympic,245
+2022-04-25,Pacific,267
+2022-04-25,Rampart,266
+2022-04-25,Southeast,306
+2022-04-25,Southwest,319
+2022-04-25,Topanga,233
+2022-04-25,Van Nuys,224
+2022-04-25,West LA,220
+2022-04-25,West Valley,236
+2022-04-25,Wilshire,247
+2022-05-03,77th Street,340
+2022-05-03,Central,372
+2022-05-03,Devonshire,241
+2022-05-03,Foothill,232
+2022-05-03,Harbor,257
+2022-05-03,Hollenbeck,246
+2022-05-03,Hollywood,314
+2022-05-03,Mission,261
+2022-05-03,Newton,306
+2022-05-03,N Hollywood,238
+2022-05-03,Northeast,272
+2022-05-03,Olympic,245
+2022-05-03,Pacific,268
+2022-05-03,Rampart,268
+2022-05-03,Southeast,306
+2022-05-03,Southwest,319
+2022-05-03,Topanga,233
+2022-05-03,Van Nuys,224
+2022-05-03,West LA,220
+2022-05-03,West Valley,236
+2022-05-03,Wilshire,247
+2022-08-22,77th Street,339
+2022-08-22,Central,358
+2022-08-22,Devonshire,243
+2022-08-22,Foothill,227
+2022-08-22,Harbor,260
+2022-08-22,Hollenbeck,255
+2022-08-22,Hollywood,301
+2022-08-22,Mission,259
+2022-08-22,Newton,319
+2022-08-22,N Hollywood,225
+2022-08-22,Northeast,268
+2022-08-22,Olympic,247
+2022-08-22,Pacific,258
+2022-08-22,Rampart,267
+2022-08-22,Southeast,309
+2022-08-22,Southwest,310
+2022-08-22,Topanga,238
+2022-08-22,Van Nuys,220
+2022-08-22,West LA,230
+2022-08-22,West Valley,223
+2022-08-22,Wilshire,240
+2023-01-13,77th Street,335
+2023-01-13,Central,356
+2023-01-13,Devonshire,234
+2023-01-13,Foothill,234
+2023-01-13,Harbor,258
+2023-01-13,Hollenbeck,260
+2023-01-13,Hollywood,302
+2023-01-13,Mission,266
+2023-01-13,Newton,314
+2023-01-13,N Hollywood,222
+2023-01-13,Northeast,268
+2023-01-13,Olympic,240
+2023-01-13,Pacific,253
+2023-01-13,Rampart,267
+2023-01-13,Southeast,314
+2023-01-13,Southwest,321
+2023-01-13,Topanga,231
+2023-01-13,Van Nuys,217
+2023-01-13,West LA,243
+2023-01-13,West Valley,227
+2023-01-13,Wilshire,235
+2024-08-13,77th Street,335
+2024-08-13,Central,356
+2024-08-13,Devonshire,234
+2024-08-13,Foothill,234
+2024-08-13,Harbor,258
+2024-08-13,Hollenbeck,260
+2024-08-13,Hollywood,302
+2024-08-13,Mission,266
+2024-08-13,Newton,314
+2024-08-13,N Hollywood,222
+2024-08-13,Northeast,268
+2024-08-13,Olympic,240
+2024-08-13,Pacific,253
+2024-08-13,Rampart,267
+2024-08-13,Southeast,314
+2024-08-13,Southwest,321
+2024-08-13,Topanga,231
+2024-08-13,Van Nuys,217
+2024-08-13,West LA,243
+2024-08-13,West Valley,227
+2024-08-13,Wilshire,235
+2024-09-27,77th Street,296
+2024-09-27,Central,287
+2024-09-27,Devonshire,191
+2024-09-27,Foothill,213
+2024-09-27,Harbor,214
+2024-09-27,Hollenbeck,229
+2024-09-27,Hollywood,288
+2024-09-27,Mission,227
+2024-09-27,Newton,270
+2024-09-27,N Hollywood,191
+2024-09-27,Northeast,232
+2024-09-27,Olympic,222
+2024-09-27,Pacific,227
+2024-09-27,Rampart,224
+2024-09-27,Southeast,262
+2024-09-27,Southwest,273
+2024-09-27,Topanga,203
+2024-09-27,Van Nuys,199
+2024-09-27,West LA,212
+2024-09-27,West Valley,211
+2024-09-27,Wilshire,205
+2025-04-15,77th Street,314
+2025-04-15,Central,324
+2025-04-15,Devonshire,238
+2025-04-15,Foothill,239
+2025-04-15,Harbor,230
+2025-04-15,Hollenbeck,249
+2025-04-15,Hollywood,286
+2025-04-15,Mission,249
+2025-04-15,Newton,300
+2025-04-15,N Hollywood,204
+2025-04-15,Northeast,280
+2025-04-15,Olympic,226
+2025-04-15,Pacific,255
+2025-04-15,Rampart,237
+2025-04-15,Southeast,276
+2025-04-15,Southwest,302
+2025-04-15,Topanga,220
+2025-04-15,Van Nuys,199
+2025-04-15,West LA,246
+2025-04-15,West Valley,216
+2025-04-15,Wilshire,220
